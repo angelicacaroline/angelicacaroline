@@ -1,4 +1,4 @@
-# 🤠 Bem vindo ao meu GitRancho
+# 🤠 Bem vindo ao meu GitRanch
 
 > *"Existem dois tipos de pessoas no Velho Oeste: as que programam com calma e as que dão `git push --force` e passam o resto da vida fugindo da lei."* — Arthur Morgan
 
@@ -22,10 +22,10 @@ Sou uma **Machine Learning Engineer** focada em **Back-end** e apaixonada por **
 
 O **Python** é o meu cavalo de confiança e o **Arduino** é o meu passatempo favorito, sempre que posso estou criando engenhocas para o rancho.
 
-* **A Divinação de Safras:** Python (`Scikit-Learn`, `Pandas`, `XGBoost`)
-* **A Viga do Celeiro:** Java (Robustez no Back-end)
-* **Automação no Pasto:** Arduino (eletrônica em geral)
-* **Carpir o Mato Alto (Código Legado):** Não tenho medo de pegar no pesado. Enfrentar código legado em **COBOL** é igualzinho a carpinar um pasto de mato alto: dá trabalho, mas no final o lote fica limpinho, limpinho.
+* **A Divinação de Safras:** `Python` (`Scikit-Learn`, `Pandas`, `XGBoost`)
+* **A Viga do Celeiro:** `Java` (Robustez no Back-end)
+* **Automação no Pasto:** `Arduino` (eletrônica em geral)
+* **Carpir o Mato Alto (Código Legado):** Não tenho medo de pegar no pesado. Enfrentar código legado em `COBOL` é igualzinho a carpinar um pasto de mato alto: dá trabalho, mas no final o lote fica limpinho, limpinho.
 
 ---
 
@@ -36,7 +36,7 @@ Tiro de longo alcance (Machine Learning):  ████████████�
 Tração de Carga Pesada (PySpark):          ██████████████████░░ 90%
 Cavalo de Guerra (Java):                   ██████████████░░░░░░ 70%
 Solda e Ferro Quente (Arduino):            ██████████░░░░░░░░░░ 50%
-Sabedoria Ancestral / O Patriarca (COBOL): ████████████████░░░░ 80%
+Sabedoria Ancestral (COBOL):               ████████████████░░░░ 80%
 Manual do Peão (Documentação):             █░░░░░░░░░░░░░░░░░░░ 5%  (Peão de verdade entende o código olhando...
 "Bazinga!" A gente precisa de documentação sim, você não viu nada! 🤫)
 ```
