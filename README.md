@@ -35,7 +35,6 @@ O **Python** é o meu cavalo de confiança e o **Arduino** é o meu passatempo f
 🐎 Cavalo de Guerra (Java):                   ██████████████░░░░░░ 70%
 🔥 Solda e Ferro Quente (Arduino):            ██████████░░░░░░░░░░ 50%
 🦖 Sabedoria Ancestral / O Patriarca (COBOL): ████████████████░░░░ 80%
-📝 Manual do Peão (Documentação):             █░░░░░░░░░░░░░░░░░░░ 5%  (Peão de verdade entende o código olhando... **Bazinga!** A gente precisa de documentação sim, vc não viu nada! 🤫)
+📝 Manual do Peão (Documentação):             █░░░░░░░░░░░░░░░░░░░ 5%  (Peão de verdade entende o código olhando...
+**Bazinga!** A gente precisa de documentação sim, vc não viu nada! 🤫)
 ```
-
-# angelicacaroline
